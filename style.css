@@ -35,6 +35,7 @@ h1{
     flex-direction: column;
     gap: 10px;
     justify-content: start;
+    margin-bottom: 10px;
 
 }
 
@@ -72,6 +73,7 @@ h1{
     position: relative;
     z-index: 2;
 }
+
 .progress{
     display: flex;
     flex-direction: row;
